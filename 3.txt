@@ -1,0 +1,4 @@
+this is going to show
+how files are ignored using .gitignore manifest file
+
+read on .gitignore files and patterns of ignored files
