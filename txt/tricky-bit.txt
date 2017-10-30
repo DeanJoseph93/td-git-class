@@ -2,6 +2,7 @@ this is a difficult feature
 
 something works...
 
-BUT THERE IS A BUG
+
+BUT THERE **WAS** A BUG
 
 ...the rest still works
